@@ -4,6 +4,11 @@
 ([EN](README_EN.md))
 ---
 
+## Актуальность
+[![PepyCLI Downloads](https://static.pepy.tech/badge/pepycli/month)](https://pepy.tech/projects/pepycli)
+
+---
+
 ## Установка
 
 Через `pip`:
